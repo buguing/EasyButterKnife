@@ -1,0 +1,5 @@
+rootProject.name='EasyButterKnife'
+include ':app'
+include ':butterknife-compiler'
+include ':butterknife-annotation'
+include ':butterknife'
